@@ -1,5 +1,5 @@
-Feature: Feature name
+Feature: Search Engine
 
-    Scenario: Scenario name
+    Scenario: Search for Grupo Quality on Google
         Given I access google page
         When I search for Grupo Quality
